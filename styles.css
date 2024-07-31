@@ -1,0 +1,30 @@
+
+.guitar{
+background-image: url(img/closeup-black-electric-guitar-dark-background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.body{
+    background-image: url(img/Sonor-Drums-Drumset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bass{
+    background-image: url(img/istockphoto-911329282-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.clarinet{
+    background-image: url(img/squidward-tentacles-playing-clarinet-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+   
+
+
+
